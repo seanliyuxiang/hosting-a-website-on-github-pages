@@ -1,3 +1,16 @@
 body {
   background: lightgreen;
 }
+
+nav > ul > li {
+  display: inline;
+  /* padding: 50px solid yellow; */
+  border: 1px solid red;
+  /* margin: 10px solid blue; */
+  /* text-align: center; */
+}
+
+nav > ul {
+  border: 1px solid red;
+  text-align: center;
+}
